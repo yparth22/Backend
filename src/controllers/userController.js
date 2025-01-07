@@ -149,6 +149,7 @@ export const signup = async (req, res) => {
   }
 };
 
+
 /**
  * create user
  * @auth required
